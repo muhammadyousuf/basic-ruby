@@ -7,6 +7,10 @@ class Dog
     @myname
   end
 
+  def talk
+    'woof!'
+  end
+
 end
 
 myDog = Dog.new
@@ -20,3 +24,5 @@ yourDog.set_name('tommy')
 puts 'My Dog name is ' + myDog.get_name
 
 puts 'Your Dog name is ' + yourDog.get_name
+
+puts 'My Dog talk is ' + myDog.talk
