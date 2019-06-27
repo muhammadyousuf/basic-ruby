@@ -10,7 +10,7 @@ class Parent
   end
 end
 
-class Child
+class Child < Parent
   def initialize
     puts 'hello child'
   end
