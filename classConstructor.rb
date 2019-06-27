@@ -14,5 +14,6 @@ end
 obj = Thing.new
 Teasure.new('muhammad yousuf')
 obj.saysomething('tom', 'it is very beautiful')
+puts obj.inspect
 
 
