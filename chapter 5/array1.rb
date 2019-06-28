@@ -16,4 +16,6 @@ puts arr2[3]
 
 puts arr2[2]
 
+puts arr2.length - 1
+
 puts arr2
