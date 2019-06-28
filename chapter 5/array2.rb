@@ -26,3 +26,11 @@ puts x[2]
 puts x[-2]
 
 puts x[0]
+
+a = Array.new
+
+a = Array.new(2)
+
+a = Array.new(2, 'hello world')
+
+puts a
