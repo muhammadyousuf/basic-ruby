@@ -11,3 +11,14 @@
    - Inspecting Objects
 3. Chapter Three Completed
    - Super-Classes and Sub-Classes
+4. Chapter Four Pending
+   - Accessor Methods
+   - Attribute Readers and Writers
+   - Calling Methods of a Superclass
+   - class Variables
+5. Chapter Five Completed
+   - Using Arrays
+   - Creating Arrays
+   - Multi-Dimensional Arrays
+   - Iterating Over Arrays
+   - Indexing into Arrays
