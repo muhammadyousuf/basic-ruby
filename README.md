@@ -9,3 +9,5 @@
    - Instance and Instance Variable
    - Constructor-new and initialize
    - Inspecting Objects
+3. Chapter Three Completed
+   - Super-Classes and Sub-Classes
