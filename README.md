@@ -22,3 +22,7 @@
    - Multi-Dimensional Arrays
    - Iterating Over Arrays
    - Indexing into Arrays
+6. Chapter Six Completed
+   - Creating Hashes
+   - Indexing into A Hash
+   - Hash Operations
