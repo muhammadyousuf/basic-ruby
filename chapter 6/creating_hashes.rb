@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-
 h2 = Hash.new('Some kind of ring')
 
 h2['treasure1'] = 'Silver ring'
