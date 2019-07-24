@@ -6,3 +6,4 @@ h2 = { 'key1' => 'val1', 'KEY_TWO' => 'val2', 'key3' => 'VALUE_3',
 p(h1.keys & h2.keys)
 p(h1.values & h2.values)
 p(h1.keys + h2.keys)
+p(h1.values - h2.values)
